@@ -1,0 +1,27 @@
+El tema de los estados quedo muy trucho
+
+saber identificar cuando se llego al final del arreglo de imagenes para no seguir aumentando acualImage
+
+como van a hacer desde afuera para entrarle con un ENEMY_TYPE al constructor
+
+estaria bueno que en lugar de harcodear las velovidades tuviesen una relacion con los FPS						OK
+
+Estara bien que ne la clase base tengas draw() pero en las hijas las tenes con argumentos de entrada?			(se puede hacer un enum que abarque todo)
+
+Ver si la animacion de los mosntruos atrapados tiene mas de una imagen
+
+Ver en que unidades esta la gravedad y hacer el FALLING y JUMPING acorde (casilleros/s^2   ?)		!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Luego puedo probar si los ticks mandarlos al IDLE solamente en lugar de estarlos setando todo el tiempo en 0
+
+En el caso del los muñecos cayendo me van a tener que avisar de afuera cuando entran en estado IDLE (no lo decido yo)
+
+Cuando se destruyen los objetos hay que llamar al detructor de otra cosa?
+
+Cambiar los isActive a active
+
+Luego puedo enprolijar el loadbitmap() con mas macros
+
+En la función startdraw de DRAW podria hacer una referencia de c++ al state
+
+el enum de los PLAYER lo modifique para que me compilara

@@ -1,0 +1,33 @@
+Animación cuando el muñeco salta																OK
+
+Poder identificar que bicho es																	OK
+
+Los estados y como me indican que arreglos de imagenes usar
+
+Cuando pasivar los objetos																		OK
+
+La conversion de la coordenadas de Tomi a las mias
+
+Que tomi me diga que bicho es para saber que imagenes cargar									OK
+
+Como se setea la direccion?																		OK
+
+En Player diferencia entre Rick y Tom															OK
+
+Cuando los proyectiles caen
+
+Cuando camina continuamente
+
+Movimiento en diagonal
+
+Hacer que las velocidades dependan de los FPS													OK
+
+Animación de muerte
+
+Animación de aparición
+
+Van a haber distintos grados (estados) de captura de los monstruos en las bolas de nieve
+
+El escenario y todo
+
+Destruir bien las cosas
